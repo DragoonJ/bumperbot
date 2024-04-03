@@ -1,0 +1,6 @@
+/simple_parameter:
+  ros__parameters:
+    simple_int_param: 101
+    simple_string_param: hello world!
+    use_sim_time: false
+

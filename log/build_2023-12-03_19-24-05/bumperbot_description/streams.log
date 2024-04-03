@@ -1,0 +1,29 @@
+[0.706s] Invoking command in '/home/meiling/bumperbot_ws/build/bumperbot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/meiling/bumperbot_ws/build/bumperbot_description -- -j8 -l8
+[1.568s] Invoked command in '/home/meiling/bumperbot_ws/build/bumperbot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/meiling/bumperbot_ws/build/bumperbot_description -- -j8 -l8
+[1.669s] Invoking command in '/home/meiling/bumperbot_ws/build/bumperbot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/meiling/bumperbot_ws/build/bumperbot_description
+[1.749s] -- Install configuration: ""
+[1.750s] -- Up-to-date: /home/meiling/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes
+[1.759s] -- Up-to-date: /home/meiling/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/wheel_right_link.STL
+[1.759s] -- Up-to-date: /home/meiling/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/base_link.STL
+[1.763s] -- Up-to-date: /home/meiling/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/caster_rear_link.STL
+[1.870s] -- Up-to-date: /home/meiling/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/caster_front_link.STL
+[1.870s] -- Up-to-date: /home/meiling/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/wheel_left_link.STL
+[1.967s] -- Up-to-date: /home/meiling/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/imu_link.STL
+[1.968s] -- Up-to-date: /home/meiling/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/urdf
+[2.014s] -- Installing: /home/meiling/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/urdf/bumperbot.urdf.xacro
+[2.085s] -- Up-to-date: /home/meiling/bumperbot_ws/install/bumperbot_description/share/ament_index/resource_index/package_run_dependencies/bumperbot_description
+[2.085s] -- Up-to-date: /home/meiling/bumperbot_ws/install/bumperbot_description/share/ament_index/resource_index/parent_prefix_path/bumperbot_description
+[2.085s] -- Up-to-date: /home/meiling/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/environment/ament_prefix_path.sh
+[2.085s] -- Up-to-date: /home/meiling/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/environment/ament_prefix_path.dsv
+[2.085s] -- Up-to-date: /home/meiling/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/environment/path.sh
+[2.086s] -- Up-to-date: /home/meiling/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/environment/path.dsv
+[2.086s] -- Up-to-date: /home/meiling/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/local_setup.bash
+[2.086s] -- Up-to-date: /home/meiling/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/local_setup.sh
+[2.086s] -- Up-to-date: /home/meiling/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/local_setup.zsh
+[2.086s] -- Up-to-date: /home/meiling/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/local_setup.dsv
+[2.086s] -- Installing: /home/meiling/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/package.dsv
+[2.120s] -- Up-to-date: /home/meiling/bumperbot_ws/install/bumperbot_description/share/ament_index/resource_index/packages/bumperbot_description
+[2.120s] -- Up-to-date: /home/meiling/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/cmake/bumperbot_descriptionConfig.cmake
+[2.120s] -- Up-to-date: /home/meiling/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/cmake/bumperbot_descriptionConfig-version.cmake
+[2.120s] -- Up-to-date: /home/meiling/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/package.xml
+[2.292s] Invoked command in '/home/meiling/bumperbot_ws/build/bumperbot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/meiling/bumperbot_ws/build/bumperbot_description

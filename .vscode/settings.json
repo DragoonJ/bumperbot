@@ -1,0 +1,15 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/meiling/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages",
+        "/home/meiling/naoqi/pynaoqi-python2.7-2.1.4.13-linux64/lib/python2.7/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/meiling/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages",
+        "/home/meiling/naoqi/pynaoqi-python2.7-2.1.4.13-linux64/lib/python2.7/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "cmake.sourceDirectory": "/home/meiling/bumperbot_ws/src/bumperbot_cpp_examples"
+}
